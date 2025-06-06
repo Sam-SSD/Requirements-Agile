@@ -101,15 +101,3 @@ Una plataforma web que permite a estudiantes reservar salones o cubículos por f
 - Como usuario, quiero integrar mis reservas con mi calendario.
 
 ---
-
-## 🛠 Tecnologías Recomendadas
-
-- **Frontend:** React.js / Next.js
-- **Backend:** Node.js / Express / NestJS
-- **Base de Datos:** PostgreSQL / MongoDB
-- **Autenticación:** JWT / OAuth
-- **QR:** Librería como `qrcode` o `qrcode.react`
-- **Notificaciones:** Nodemailer / Firebase Cloud Messaging
-- **Hosting:** Vercel / Heroku / AWS
-
----
