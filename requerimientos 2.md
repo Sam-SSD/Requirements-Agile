@@ -125,10 +125,3 @@ Campos necesarios:
 - Google Calendar (opcional, para agendamiento)
 
 ---
-
-## 📌 Estado del Proyecto
-
-📂 En fase de diseño de prototipo e identificación de funcionalidades clave.  
-🔒 Alta prioridad en seguridad y privacidad de datos.  
-🌱 Proyecto con enfoque social orientado al desarrollo económico comunitario.
-
